@@ -5,7 +5,8 @@ import { PersonRounded, SelectAllTwoTone } from '@material-ui/icons';
 
 const SocketContext = createContext();
 
-const socket = io('http://localhost:5000');
+//const socket = io('http://localhost:5000');
+const socket = io('https://djchat-app.herokuapp.com/');
 
 const ContextProvider = ({ children }) => {
     const [stream, setStream] = useState(null);

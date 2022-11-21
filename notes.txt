@@ -1,1 +1,11 @@
 https://www.youtube.com/watch?v=oxFr7we3LC8
+
+https://dazzling-golick-cb8c3a.netlify.app/
+
+https://app.netlify.com/sites/dazzling-golick-cb8c3a/overview
+
+https://dashboard.heroku.com/apps/djchat-app
+
+heroku
+dj4388@gmail.com
+dj4388@heroku.com#
